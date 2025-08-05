@@ -3,7 +3,8 @@
 Este é o meu primeiro projeto de uma página de loja virtual, desenvolvido como parte do meu aprendizado em desenvolvimento front-end. O projeto foi feito com **HTML5**, **CSS3** e alguns efeitos simples de **animação e transição**.
 
 ## 📸 Prévia
-![tela1](https://github.com/user-attachments/assets/4a93de30-5af2-4cb8-86b6-d76e6c11d02c)
+![tela1](https://github.com/user-attachments/assets/a29ab38a-9148-4ce6-be35-9864bf0cf8fa)
+
 
 ## 🚀 Funcionalidades
 
