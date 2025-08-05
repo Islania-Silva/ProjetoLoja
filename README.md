@@ -24,7 +24,7 @@ Este é o meu primeiro projeto de uma página de loja virtual, desenvolvido como
 Você pode:
 1. Clonar este repositório:
 ```bash
-git clone https://github.com/Isa-Silva/PrimeiroProjetoLoja.git
+git clone https://github.com/Isa-Silva/ProjetoLoja.git
 ```
 # 📚 Aprendizados
 
