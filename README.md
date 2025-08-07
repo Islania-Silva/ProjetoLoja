@@ -27,7 +27,7 @@ Você pode:
 ```bash
 git clone https://github.com/Isa-Silva/ProjetoLoja.git
 ```
-# 📚 Aprendizados
+## 📚 Aprendizados
 
 Durante esse projeto, aprendi:
 
@@ -36,14 +36,14 @@ Durante esse projeto, aprendi:
 - Trabalhar com `transform` e `transition`
 - A organizar um projeto com boas práticas iniciais
 
-# Próximas Etapas
+## Próximas Etapas
 
 -  Implementar a seção de produtos
 -  Tornar o layout totalmente responsivo(futuramente)
 -  Melhorar a acessibilidade
 -  Adicionar animações com JavaScript (futuramente)
 
-# Observações
+## Observações
 
 Este projeto é parte do meu portfólio e aprendizado. Feedbacks são muito bem-vindos!
 
