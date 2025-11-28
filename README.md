@@ -27,6 +27,10 @@ Você pode:
 ```bash
 git clone https://github.com/Isa-Silva/ProjetoLoja.git
 ```
+2. Abrir o Git Pages:
+```bash
+islania-silva.github.io/ProjetoLoja/
+```
 ## 📚 Aprendizados
 
 Durante esse projeto, aprendi:
