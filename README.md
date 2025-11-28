@@ -3,7 +3,8 @@
 Este é o meu primeiro projeto de uma página de loja virtual, desenvolvido como parte do meu aprendizado em desenvolvimento front-end. O projeto foi feito com **HTML5**, **CSS3** e alguns efeitos simples de **animação e transição**.
 
 ## 📸 Prévia
-![tela1](https://github.com/user-attachments/assets/4a93de30-5af2-4cb8-86b6-d76e6c11d02c)
+![tela1](https://github.com/user-attachments/assets/a29ab38a-9148-4ce6-be35-9864bf0cf8fa)
+
 
 ## 🚀 Funcionalidades
 
@@ -24,9 +25,9 @@ Este é o meu primeiro projeto de uma página de loja virtual, desenvolvido como
 Você pode:
 1. Clonar este repositório:
 ```bash
-git clone https://github.com/Isa-Silva/PrimeiroProjetoLoja.git
+git clone https://github.com/Isa-Silva/ProjetoLoja.git
 ```
-# 📚 Aprendizados
+## 📚 Aprendizados
 
 Durante esse projeto, aprendi:
 
@@ -35,14 +36,14 @@ Durante esse projeto, aprendi:
 - Trabalhar com `transform` e `transition`
 - A organizar um projeto com boas práticas iniciais
 
-# Próximas Etapas
+## Próximas Etapas
 
 -  Implementar a seção de produtos
 -  Tornar o layout totalmente responsivo(futuramente)
 -  Melhorar a acessibilidade
 -  Adicionar animações com JavaScript (futuramente)
 
-# Observações
+## Observações
 
 Este projeto é parte do meu portfólio e aprendizado. Feedbacks são muito bem-vindos!
 
